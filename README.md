@@ -1,0 +1,2 @@
+# T4_A2_RuizVillalobosAdanReporteMysqlSlap-AdmnBD
+Reporte MySQLSLAP
